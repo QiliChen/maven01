@@ -9,5 +9,14 @@ package com.chenyiwei.demo1;
 public class run {
     public static void main(String[] args) {
         System.out.println(("hrr"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
+        System.out.println(("hrr2"));
     }
 }
