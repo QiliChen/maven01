@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82806fae-0131-489c-a873-0527785376b9" name="变更" comment="hotfix">
+    <list default="true" id="82806fae-0131-489c-a873-0527785376b9" name="变更" comment="变更3">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/com/chenyiwei/demo1/run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/com/chenyiwei/demo1/run.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +88,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="hot-fix" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -104,7 +104,6 @@
     <MESSAGE value="变更" />
     <MESSAGE value="变更2" />
     <MESSAGE value="变更3" />
-    <MESSAGE value="hotfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="hotfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更3" />
   </component>
 </project>
