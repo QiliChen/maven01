@@ -25,5 +25,6 @@ public class run {
         System.out.println(("hrr2"));
         System.out.println(("hrrxcxxxx"));
         System.out.println(("xsad1"));
+        System.out.println(("push"));
     }
 }
