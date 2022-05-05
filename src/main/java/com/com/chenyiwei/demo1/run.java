@@ -15,8 +15,5 @@ public class run {
         System.out.println(("hrr2"));
         System.out.println(("hrr2"));
         System.out.println(("hrr2"));
-        System.out.println(("hrr2"));
-        System.out.println(("hrr2"));
-        System.out.println(("hrr2"));
     }
 }
